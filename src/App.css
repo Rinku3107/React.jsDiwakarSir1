@@ -1,0 +1,22 @@
+.ment-btns-I,
+.menu-btns-II {
+  display: grid;
+  grid-template-columns: 100px 100px;
+  grid-template-rows: auto auto;
+  grid-gap: 20px;
+}
+
+.card-container {
+  display: flex;
+  margin: auto;
+}
+
+.userBtn1 {
+  margin-left: 250px;
+  padding: 10px 20px;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 17px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
